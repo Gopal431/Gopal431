@@ -56,9 +56,9 @@
 ### :fire: My Stats :
 <div align="center">
 	<p align="center">
-		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=im-programmatist&count_private=true&show_icons=true&theme=onedark" />
-		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=im-programmatist&theme=onedark" />
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-programmatist&layout=compact&&count_private=true&theme=onedark" />
+		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gopal431&count_private=true&show_icons=true&theme=onedark" />
+		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal431&theme=onedark" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal431&layout=compact&&count_private=true&theme=onedark" />
 	</p>
 </div>
 <hr>
