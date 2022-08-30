@@ -2,7 +2,7 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-	<a href="https://www.linkedin.com/in/chetankorde">
+	<a href="https://www.linkedin.com/in/linkedin.com/in/gopal-prasad">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://www.youtube.com/channel/UCs8K2OPo6nuO9bkrvNmDTBw">
@@ -19,8 +19,8 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div>
-	<a href="https://github.com/im-programmatist/im-programmatist">
-		<img src="https://komarev.com/ghpvc/?username=im-programmatist" alt="im-programmatist" />
+	<a href="https://github.com/im-programmatist/Gopal431">
+		<img src="https://komarev.com/ghpvc/?username=Gopal431" alt="Gopal431" />
 	</a>
 	<a href="http://twitter.com/k_chetannarayan">
 		<img height="20" src="https://img.shields.io/twitter/follow/k_chetannarayan?label=Twitter&logo=twitter&style=flat" />
@@ -28,7 +28,7 @@
 	<a>
         	<img height="20" src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="wakatime" />
     	</a>
-<!-- 	<a href="https://wakatime.com/@09ab5398-b8b2-4102-acd3-1d52d86b6a48"><img src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="Total time coded since Aug 7 2022" /></a> -->
+<!-- 	<a href="https://wakatime.com/@09ab5398-b8b2-4102-acd3-1d52d86b6a48"><img src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="Total time coded since Aug 7 2020" /></a> -->
     </div>
 </div>
 
@@ -65,21 +65,21 @@
 
 
 <div>
-I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Programmatist in online community.
+I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Gopal Prasad in online community.
 
 - 👀 I’m interested in web technology, software architecture and cloud technology.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & Vue JS Cloud  
+- 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS,  ES6 Advanced & Vue JS Cloud  
 
 - 💞️ I’m looking to collaborate on Laravel, Node, JS & AWS technology
 
 - ⚡ In my free time, I solve problems on JS technology and Get knowledge about web & cloud technology. 
 
-- 💬 You can ask me about any problem in js and aws, together we will find the solution
+- 💬 You can ask me about any problem in js together we will find the solution
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankorde)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prasadgopal$31@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_programmatist/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-prasad)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prasadgopal$31@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prasadgopal431/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
 </div>
 <hr>
 
