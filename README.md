@@ -4,7 +4,7 @@
 <div id="badges" align="center">
 	<a href="https://www.linkedin.com/in/gopal-prasad">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-		<a href="https://www.twitter.com/gopalpr20009227">
+		<a href="https://www.twitter.com/prasadgopal431">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 	</a>
 
